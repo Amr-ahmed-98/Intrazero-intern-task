@@ -1,6 +1,7 @@
 {
   "name": "intern-task",
   "version": "0.1.0",
+  "homepage": "https://Amr-ahmed-98.github.io/Intrazero-intern-task/",
   "private": true,
   "scripts": {
     "dev": "next dev",
