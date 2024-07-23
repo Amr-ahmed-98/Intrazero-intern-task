@@ -9,3 +9,6 @@
 4 - npm run dev 
 
 5 - open  http://localhost:{your port}
+
+
+also you can view the page by clicking on https://intrazero-intern-task.vercel.app/
