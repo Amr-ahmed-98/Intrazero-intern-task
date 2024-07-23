@@ -1,0 +1,16 @@
+{
+    "starWarsApp": "Star Wars App",
+    "swapForFilms": "Swap for films",
+    "swapForPeople": "Swap for people",
+    "swapForPlanets": "Swap for Planets",
+    "favorites": "Favorites",
+    "yourFavoriteFilms": "Your Favorite Films",
+    "yourFavoritePeople": "Your Favorite People",
+    "yourFavoritePlanets": "Your Favorite Planets",
+    "director": "Director",
+    "climate": "Climate",
+    "terrain": "Terrain",
+    "birthYear": "Birth Year",
+    "gender": "Gender",
+    "selectLanguage": "Select A Language"
+  }

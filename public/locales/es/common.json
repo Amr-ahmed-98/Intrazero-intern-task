@@ -1,0 +1,16 @@
+{
+    "starWarsApp": "Aplicación de Star Wars",
+    "swapForFilms": "Intercambiar por películas",
+    "swapForPeople": "Intercambiar por personas",
+    "swapForPlanets": "Intercambiar por planetas",
+    "favorites": "Favoritos",
+    "yourFavoriteFilms": "Tus películas favoritas",
+    "yourFavoritePeople": "Tus personas favoritas",
+    "yourFavoritePlanets": "Tus planetas favoritos",
+    "director": "Director",
+    "climate": "Clima",
+    "terrain": "Terreno",
+    "birthYear": "Año de nacimiento",
+    "gender": "Género",
+    "selectLanguage": "Seleccionar un idioma"
+  }
